@@ -97,6 +97,7 @@
     + [Converting 7.x drupal module to 8.x](http://beautiful7mind.wordpress.com/2013/03/14/converting-7-x-drupal-module-to-8-x/)
     + [D8FTW: Breadcrumbs That Work](http://palantir.net/blog/d8ftw-breadcrumbs-work)
     + [D8FTW: Hacking Core Without Killing Kittens](http://palantir.net/blog/d8ftw-hacking-core-without-killing-kittens)
+    + [Drupal 8: Worth the wait?](http://blog.investis.com/en/2016/08/drupal-8-worth-wait/#axzz4aC5O0FJh)
 + Presentations
     + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
